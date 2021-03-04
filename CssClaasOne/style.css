@@ -1,0 +1,12 @@
+body{
+    background: blue; 
+    text-align: center;
+    color: red;
+}
+body>header{
+    background-color: yellow;
+}
+
+body>header>h1{
+    color: black;
+}
